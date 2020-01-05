@@ -14,14 +14,14 @@ Each page of the newspapers is saved as a single PNG image in a file called imag
 Here's an example of the output expected. Using the small_img.zip file, if I search for the string "Christopher" I should see the following image:
 <br>
 <br>
-![Christopher Search](./readonly/small_project.png)
+![Christopher Search](./small_project.png)
 <br>
 <br>
 If I were to use the images.zip file and search for "Mark" I should see the following image (note that there are times when there are no faces on a page, but a word is found!):
 <br>
 <br>
 
-![Mark Search](./readonly/large_project.png)
+![Mark Search](./large_project.png)
 
 
 
